@@ -1,13 +1,14 @@
 {
     "Title": "Sample",
-    "Description": "This is an example",
+    "Description": "This is an example. You can use this as a template to add your own package.",
     "Repository": {
         "Author": "ScriptersCF",
         "Name": "Sample_Package",
         "Main": "main.lua",
-        "Documentation": "Docs.lua",
-        "Import": [
-            "Scripts/Print.lua"
+        "Documentation": "docs.lua",
+        "Map": [
+            "funcs/Print.lua",
+            "funcs/Warn.lua"
         ]
     }
 }
