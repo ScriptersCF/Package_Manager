@@ -1,0 +1,11 @@
+{
+    "Title": "Extended String Library",
+    "Description": "An extended library of useful properties and functions for strings.",
+    "Repository": {
+        "Author": "ScriptersCF",
+        "Name": "Extended_String",
+        "Main": "main.lua",
+        "Documentation": "docs.lua",
+        "Import": []
+    }
+}
