@@ -6,7 +6,7 @@
         "Name": "Extended_String",
         "Main": "main.lua",
         "Documentation": "docs.lua",
-        "Import": [
+        "Map": [
             "funcs/capitalize.lua",
             "funcs/startswith.lua",
             "funcs/endswith.lua",
