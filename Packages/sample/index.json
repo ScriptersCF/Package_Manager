@@ -1,6 +1,13 @@
 {
-    "Name": "Sample",
+    "Title": "Sample",
     "Description": "This is an example",
-    "Repository": "https://github.com/ScriptersCF/Sample_Package",
-    "Author": "JoshRBX"
+    "Repository": {
+        "Author": "ScriptersCF",
+        "Name": "Sample_Package",
+        "Main": "main.lua",
+        "Documentation": "Docs.lua",
+        "Import": [
+            "Scripts/Print.lua"
+        ]
+    }
 }
