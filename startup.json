@@ -1,0 +1,14 @@
+{
+    "version": "0.1alpha",
+    "featured": {
+        "string": {
+            "Title": "Extended String Library",
+            "Name": "string",
+            "Description": "Extended string library containing functions that might be useful.",
+            "Author": "ScriptersCF"
+        }
+    },
+    verified = [
+        "ScriptersCF"
+    ]
+}
