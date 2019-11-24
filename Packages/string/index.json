@@ -1,6 +1,6 @@
 {
     "Title": "Extended String Library",
-    "Description": "An extended string library for Roblox Lua.",
+    "Description": "This extended string library contains a range of extra functions that might be useful when dealing with lots of strings.",
     "Repository": {
         "Author": "ScriptersCF",
         "Name": "Extended_String",
