@@ -5,6 +5,7 @@
     "Repository": {
         "Author": "ScriptersCF",
         "Name": "Sample_Package",
+        "Branch": "master",
         "Main": "main.lua",
         "Documentation": "docs.lua",
         "Map": [
