@@ -1,5 +1,6 @@
 {
     "Title": "Sample",
+    "Key": "sample",
     "Description": "This is an example. You can use this as a template to add your own package.",
     "Repository": {
         "Author": "ScriptersCF",
