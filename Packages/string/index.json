@@ -6,6 +6,7 @@
         "Author": "ScriptersCF",
         "Name": "Extended_String",
         "Main": "main.lua",
+        "Branch": "master",
         "Documentation": "docs.lua",
         "Map": [
             "funcs/capitalize.lua",
