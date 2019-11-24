@@ -1,5 +1,6 @@
 {
     "Title": "Extended String Library",
+    "Key": "string",
     "Description": "This extended string library contains a range of extra functions that might be useful when dealing with lots of strings.",
     "Repository": {
         "Author": "ScriptersCF",
