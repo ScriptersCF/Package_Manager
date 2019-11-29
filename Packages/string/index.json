@@ -7,7 +7,7 @@
         "Name": "Extended_String",
         "Main": "main.lua",
         "Branch": "master",
-        "Documentation": "docs.lua",
+        "Documentation": "docs.json",
         "Map": [
             "funcs/capitalize.lua",
             "funcs/startswith.lua",
@@ -18,6 +18,7 @@
             "funcs/isdigit.lua",
             "funcs/islower.lua",
             "funcs/isupper.lua",
+            "funcs/random.lua",
             "funcs/title.lua"
         ]
     }
