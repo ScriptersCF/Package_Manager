@@ -7,7 +7,7 @@
     "Name": "Extended_Table",
     "Main": "main.lua",
     "Branch": "master",
-    "Documentation": "docs.lua",
+    "Documentation": "docs.json",
     "Map": [
       "funcs/deepcopy.lua",
     ]
