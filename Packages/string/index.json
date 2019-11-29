@@ -18,6 +18,7 @@
             "funcs/isdigit.lua",
             "funcs/islower.lua",
             "funcs/isupper.lua",
+            "funcs/random.lua",
             "funcs/title.lua"
         ]
     }
