@@ -10,5 +10,6 @@
     "Documentation": "docs.json",
     "Map": [
       "funcs/deepcopy.lua",
+      "funcs/slice.lua",
     ]
 }
