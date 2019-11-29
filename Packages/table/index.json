@@ -1,0 +1,14 @@
+{
+  "Title": "Extended table library",
+  "Key": "table",
+  "Description": "This extended table library contains a range of extra functions that can prove useful in certain situations.",
+  "Repository": {
+    "Author": "ScriptersCF",
+    "Name": "Extended_Table",
+    "Main": "main.lua",
+    "Branch": "master",
+    "Documentation": "docs.lua",
+    "Map": [
+      "funcs/deepcopy.lua",
+    ]
+}
